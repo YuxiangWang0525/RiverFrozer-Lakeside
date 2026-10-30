@@ -1,0 +1,21 @@
+{
+  "devDependencies": {
+    "vitepress": "2.0.0-alpha.21",
+    "vue": "^3.5.44"
+  },
+  "scripts": {
+    "lake:dev": "vitepress dev lakeside",
+    "lake:build": "vitepress build lakeside",
+    "lake:preview": "vitepress preview lakeside",
+    "personal:dev": "cd personal-page; npx nuxt dev",
+    "personal:build": "cd personal-page; npx nuxt build"
+  },
+  "dependencies": {
+    "@iconify/vue": "^5.0.4",
+    "@nuxt/ui": "^4.12.0",
+    "axios": "^1.21.0",
+    "primevue": "^5.0.4",
+    "tailwindcss": "^4.3.3",
+    "vue-i18n": "^9.14.5"
+  }
+}

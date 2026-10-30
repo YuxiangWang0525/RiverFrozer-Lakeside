@@ -1,0 +1,48 @@
+[
+  {
+    "name": "Minecraft",
+    "nameEn": "Minecraft",
+    "color": "#6B8E23",
+    "image": "http://picture.yuxiangwang0525.com/ppage/wallpaper_minecraft_pc_bundle_1920x1080.png",
+    "game_ids": [
+      { "label": "Player ID", "labelEn": "Player ID", "value": "RiverFrozer" }
+    ]
+  },
+  {
+    "name": "明日方舟",
+    "nameEn": "Arknights",
+    "color": "#1A1A2E",
+    "image": "http://picture.yuxiangwang0525.com/ppage/6903395f9b2c36474bd762b63d4ccf75161775300.png",
+    "game_ids": [
+      { "label": "中国官服", "labelEn": "CN Server", "value": "星乃一歌#5607" }
+    ]
+  },
+  {
+    "name": "世界计划:缤纷舞台 feat.初音未来",
+    "nameEn": "Project Sekai",
+    "color": "#33AAEE",
+    "image": "https://picture.yuxiangwang0525.com/ppage/pjsk_img_kv_sp.png",
+    "game_ids": [
+      { "label": "日服", "labelEn": "JP Server", "value": "497402904934371337" },
+      { "label": "国服", "labelEn": "CN Server", "value": "7485919502266358562" }
+    ]
+  },
+  {
+    "name": "明日方舟:终末地",
+    "nameEn": "Arknights:Endfield",
+    "color": "#4A90E2",
+    "image": "https://picture.yuxiangwang0525.com/ppage/4ekk6r3g7gcii9al07ixck35uz9lsbq.jpg",
+    "game_ids": [
+      { "label": "鹰角国服", "labelEn": "Hy CN", "value": "1512556800" }
+    ]
+  },
+  {
+    "name": "三角洲行动",
+    "nameEn": "DeltaForce",
+    "color": "#4A90E2",
+    "image": "https://picture.yuxiangwang0525.com/ppage/6b0b6f42-6f67-4b22-8df1-2ffbe5d8a5c2.png",
+    "game_ids": [
+      { "label": "国服", "labelEn": "Tencent", "value": "星乃一歌Ichika" }
+    ]
+  }
+]

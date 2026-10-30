@@ -1,0 +1,4 @@
+---
+blogpost: true
+title: Post
+---

@@ -1,0 +1,7 @@
+packages:
+  - '.'
+  - 'personal-page'
+
+allowBuilds:
+  esbuild: true
+  vue-demi: true

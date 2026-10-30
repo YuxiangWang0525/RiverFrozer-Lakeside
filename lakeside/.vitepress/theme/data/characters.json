@@ -1,0 +1,14 @@
+[
+  { "name": "星乃一歌", "nameEn": "Hoshino Ichika", "work": "Project SEKAI", "color": "#33AAEE", "image": "https://picture.yuxiangwang0525.com/overlay/pjsk/ick/1.png" },
+  { "name": "花里实乃理", "nameEn": "Hanasato Minori", "work": "Project SEKAI", "color": "#FFCCAA", "image": "https://picture.yuxiangwang0525.com/overlay/pjsk/mnr/2.png" },
+  { "name": "宵崎奏", "nameEn": "Yoisaki Kanade", "work": "Project SEKAI", "color": "#BB6688", "image": "https://picture.yuxiangwang0525.com/overlay/pjsk/knd/3.png" },
+  { "name": "东云绘名", "nameEn": "Shinonome Ena", "work": "Project SEKAI", "color": "#CCAA88", "image": "https://picture.yuxiangwang0525.com/overlay/pjsk/ena/1.png" },
+  { "name": "晓山瑞希", "nameEn": "Akiyama Mizuki", "work": "Project SEKAI", "color": "#DDAACC", "image": "https://picture.yuxiangwang0525.com/overlay/pjsk/mzk/1.png" },
+  { "name": "桐谷遥", "nameEn": "Kiritani Haruka", "work": "Project SEKAI", "color": "#99CCFF", "image": "https://picture.yuxiangwang0525.com/overlay/pjsk/hrk/1.png" },
+  { "name": "天马咲希", "nameEn": "Tenma Saki", "work": "Project SEKAI", "color": "#FFDD44", "image": "https://picture.yuxiangwang0525.com/overlay/pjsk/saki/3.png" },
+  { "name": "初音未来", "nameEn": "Hatsune Miku", "work": "Piapro", "color": "#39C5BB", "image": "https://picture.yuxiangwang0525.com/ppage/miku_page.png" },
+  { "name": "洛天依", "nameEn": "Luo Tianyi", "work": "VSinger", "color": "#66CCFF", "image": "https://picture.yuxiangwang0525.com/ppage/lostintianyi.jpg" },
+  { "name": "羽毛笔", "nameEn": "La Pluma", "work": "明日方舟", "color": "", "image": "https://picture.yuxiangwang0525.com/ppage/LaPlumaCD.png" },
+  { "name": "庄方宜", "nameEn": "Zhuang Fangyi", "work": "明日方舟:终末地", "color": "", "image": "https://picture.yuxiangwang0525.com/ppage/item_pic_5_chr_0030_zhuangfy.avif" },
+  { "name": "汤汤", "nameEn": "Tang Tang", "work": "明日方舟:终末地", "color": "", "image": "https://picture.yuxiangwang0525.com/ppage/pic_1_chr_0027_tangtang.webp" }
+]
